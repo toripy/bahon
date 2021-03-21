@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "BUS",
+      "image": "https://www.shohoz.com/img/new-operator-promotion.jpg",
+      "blog":"",
+      "photo":"bus.png"
+    },
+    {
+      "id": 2,
+      "name": "BIKE",
+      "image": "https://cdn3.vectorstock.com/i/thumb-large/31/17/scooter-ride-happy-woman-man-riders-cute-cartoon-vector-33403117.jpg",
+      "blog":"",
+      "photo":"bike.png"
+    },
+    {
+      "id": 3,
+      "name": "TAXI",
+      "image": "https://image.freepik.com/free-vector/taxi-city_1270-526.jpg",
+      "blog":"",
+      "photo":"taxi.png"
+    },
+    {
+      "id": 4,
+      "name": "TRAIN",
+      "image": "https://image.freepik.com/free-vector/train-conductor-train_1308-15919.jpg",
+      "blog":"",
+      "photo":"train.png"
+    }
+  ]
